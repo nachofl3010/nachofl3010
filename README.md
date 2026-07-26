@@ -16,13 +16,15 @@ of Buenos Aires (UBA).
 
 ## Toolbox
 
-**Core** — Python, R, NumPy, pandas, scikit-learn, SQL
-**Also used in projects** — Java, TypeScript, PyTorch, OpenCV, SciPy, FastAPI, Next.js, React, PostgreSQL, Docker, LangGraph
+**Core** — Python, NumPy, pandas, scikit-learn, SQL
+**Also used in projects** — Java, TypeScript, OpenCV, SciPy, FastAPI, Next.js, React, PostgreSQL, Docker, LangGraph
 
 ## Coursework
 
 Foundations from the degree, kept public:
-[IMC1C2026](https://github.com/nachofl3010/IMC1C2026) — continuous modelling, ODEs and
-bifurcation analysis — and [Tp_2-AED](https://github.com/nachofl3010/Tp_2-AED), a
+[numerical-methods-physics-signals](https://github.com/nachofl3010/numerical-methods-physics-signals) —
+Kepler orbits and relativistic perihelion precession, phone-number identification by FFT, and
+the 1D Poisson equation by finite differences — and
+[crypto-ledger-max-heap](https://github.com/nachofl3010/crypto-ledger-max-heap), a
 cryptocurrency ledger in Java built to hit strict complexity bounds with handle-indexed
 max-heaps.
